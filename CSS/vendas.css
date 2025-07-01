@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: auto;
+}
+
+header {
+    margin: 0 auto;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 20px;
+    background-image: linear-gradient(to right, #3D0C6E, #7C4CAD);
+    color: white;
+}
+
+a {
+    color: white;
+}
+
